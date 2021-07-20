@@ -25,3 +25,6 @@ Here are a few things I've picked up along my learning journey.
   <a href="https://www.linkedin.com/in/m-muchsin/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://twitter.com/shin_osc"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
+
+
+![ViewCount](https://views.whatilearened.today/views/github/mmuchsin/views.svg)
