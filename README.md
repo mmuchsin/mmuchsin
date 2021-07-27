@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Muchsin 👨‍💻
 
-I am  a Data Sience enthusiast. I am passionate about technologies and love to learn new things.
+I am  a Data Science enthusiast. I am passionate about technologies and love to learn new things.
 
 #### 🔭 I’m currently looking for new opportunities.
 
