@@ -123,5 +123,5 @@ I'm always excited to discuss innovative projects, collaboration opportunities, 
 </p>
 
 <div align="center">
-  <h3>💡 "Technology is best when it brings people together and creates opportunities for growth"</h3>
+  <h3>💡"Every line of code is an opportunity to make someone's life better"</h3>
 </div>
