@@ -4,7 +4,7 @@
     <strong>Experienced Full-Stack Developer (Nuxt.js & Supabase) driving digital transformation in education and community empowerment.</strong>
   </p>
   <p>
-    With a diverse background spanning content editing, data processing, and youth program coordination, I've honed skills in leadership, problem-solving, and communication. I am passionate about leveraging technology for sustainable positive change, particularly in enhancing digital & religious literacy and supporting the rural economy.
+    With a diverse background spanning content editing, data processing, and youth program coordination, I've honed skills in leadership, problem-solving, and communication. I am passionate about leveraging technology for sustainable positive change, particularly in enhancing digital literacy and supporting the rural economy.
   </p>
 </div>
 
