@@ -57,7 +57,7 @@ Conducted comprehensive analysis of digital literacy trends across Indonesia (20
 
 ---
 
-### 📈 **B2B Customer Analytics Dashboard**
+### 📈 **B2B Customer Analytics Report**
 *Performance Intelligence for Retail*
 
 Built comprehensive customer analytics system for B2B retail performance review, utilizing advanced SQL queries to extract actionable business insights and identify key performance indicators.
