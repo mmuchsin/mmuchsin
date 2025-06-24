@@ -8,9 +8,7 @@
 
 ## 🎯 About Me
 
-I'm a passionate full-stack developer specializing in **Nuxt.js** and **Supabase**, with a mission to drive digital transformation in education and rural economic development. My unique background combines technical expertise with real-world experience in youth leadership, content creation, and data processing.
-
-Currently, I'm pioneering AI adoption initiatives to enhance digital literacy and revolutionize learning methodologies, particularly for underserved communities in Indonesia.
+I'm a passionate full-stack developer specializing in **Nuxt.js** and **Supabase**, with a mission to drive digital transformation in education and rural economic development. My unique background combines technical expertise with real-world experience in youth leadership, content creation, and data processing. Currently, I'm pioneering AI adoption initiatives to enhance digital literacy and revolutionize learning methodologies.
 
 ---
 
